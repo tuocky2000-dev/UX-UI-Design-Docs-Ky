@@ -1,5 +1,6 @@
 # Introduction to the UX/UI Design
 
+HIHIHIHIHIHIHI
 This UX/UI Design course guides us through the full process of creating user‑centered digital experiences, from understanding real user needs all the way to designing and refining a final product.
 
 Throughout the term, we explore how good design is built on clear problem‑solving, thoughtful structure, and meaningful interaction, rather than just visuals. Each week adds a new layer to the process, helping us see how research, planning, creativity, and testing all connect together.
