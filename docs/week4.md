@@ -79,4 +79,4 @@ About:
 - Past Shows
 - Visitor Questions (FAQ)
 
-This was the final grouping our team agreed on, and it made the most sense based on how users would look for information. Hi
+This was the final grouping our team agreed on, and it made the most sense based on how users would look for information. ALOLOLO
